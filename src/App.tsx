@@ -68,7 +68,7 @@ function App() {
 						<div className="min-w-16 flex-shrink-0">
 							<a href="/">
 								<img
-									src="src/assets/V.svg"
+									src="/V.svg"
 									alt="logo"
 									className="size-8 md:size-14  my-2 hover:duration-200 hover:translate-x-1 cursor-pointer"
 								/>
@@ -365,7 +365,7 @@ function App() {
 								</ul>
 							</div>
 							<img
-								src="src/assets/perfil_1.jpeg"
+								src="/perfil_1.jpeg"
 								alt="avatar"
 								className="rounded-sm object-cover  w-[250px] h-[320px] mt-10 mx-auto lg:mt-32 lg:ml-10 hover:bg-transparent hover:-translate-x-1 hover:-translate-y-1 hover:text-teal-400 transition-all duration-700 ease-out hover:shadow-teal-400 hover:shadow-lg "
 							/>
@@ -531,7 +531,7 @@ function App() {
 								<div className="grid grid-cols-1  lg:grid-cols-2 relative p-7 ">
 									<img
 										className=" object-cover lg:h-[350px] h-full w-full  mb-12 object-left-top rounded-sm   lg:hover:opacity-100 shadow-xl duration-500 hover:shadow-slate-800 md-jobs-card lg:relative lg:opacity-70 "
-										src="src/assets/job_pilar.png"
+										src="/job_pilar.png"
 										alt="img_job_pilar"
 									/>
 									<div className="flex flex-col gap-6 lg:text-right lg:-translate-x-24 z-10 ">
@@ -652,14 +652,14 @@ function App() {
 									</div>
 									<img
 										className=" object-cover lg:h-[350px] h-full w-full  mb-12 object-left-top rounded-sm   lg:hover:opacity-100 shadow-xl duration-500 hover:shadow-slate-800 md-jobs-card lg:relative lg:opacity-70 "
-										src="src/assets/job_freela_1.png"
+										src="/job_freela_1.png"
 										alt="img_job_freela_1"
 									/>
 								</div>
 								<div className="grid grid-cols-1  lg:grid-cols-2 relative p-7 ">
 									<img
 										className=" object-cover lg:h-[350px] h-full w-full  mb-12 object-left-top rounded-sm   lg:hover:opacity-100 shadow-xl duration-500 hover:shadow-slate-800 md-jobs-card lg:relative lg:opacity-70 "
-										src="src/assets/job_freela_2.png"
+										src="/job_freela_2.png"
 										alt="img_job_freela_2"
 									/>
 									<div className="flex flex-col gap-6 lg:text-right lg:-translate-x-24 z-10 ">
@@ -762,7 +762,7 @@ function App() {
 									</div>
 									<img
 										className=" object-cover  lg:h-[350px] h-full w-full  mb-12 object-top rounded-sm   lg:hover:opacity-100 shadow-xl duration-500 hover:shadow-slate-800 md-jobs-card lg:relative lg:opacity-70 "
-										src="src/assets/job_freela_3.png"
+										src="/job_freela_3.png"
 										alt="img_job_freela_3"
 									/>
 								</div>
